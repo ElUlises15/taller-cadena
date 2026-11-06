@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Demo: indexing is disabled through the robots meta tag and HTTP header.
